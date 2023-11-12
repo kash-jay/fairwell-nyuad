@@ -35,4 +35,8 @@ Q M:
 
 Overall some issues we ran into were trying to resize images to fit the screen better, our inability to find a place for the map to fit into the project, and some communication issues. 
 
-The final output of the project was similar to what we were looking for. However, there is always more for improvement. Some stuff that can be done to make the website better is to add more audio and stories that people share with us about campus. Also the buttons and how they navigate the view through campus. Maybe we can make them more integrated into how a person would move around campus.
+Shahd: 
+
+I enjoyed working on the assignment. I felt we had a hard time finding a good idea and implementing it. I felt things flew pretty well after that. I enjoyed styling the website and also doing the buttons. I felt I learned a lot through the process. 
+
+The final output of the project was similar to what we were looking for. However, there is always more room for improvement. Some stuff that can be done to make the website better is to add more audio and stories that people share with us about campus. Also the buttons and how they navigate the view through campus. Maybe we can make them more integrated into how a person would move around campus. I think alot of other things can be done. 
