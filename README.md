@@ -61,7 +61,7 @@ We all brainstormed for different ideas and planned the process and wireframe of
 
 **QM Naushad**: Worked on coding. Wrote the code for the structure and flow of the website. Took the different images of campus and stylized them for the backgrounds.
 
-**Kash**: Worked on coding, debugged issues, and handled the github-side-of-things.
+**Kash**: Worked on coding flow and structure, debugged issues, and handled the github side of things. Handled all the audio on the website. Recorded one soundscape. 
 
 
 ## Reflection and Evaluation: 
@@ -89,6 +89,7 @@ I ensured my code was modular and well-documented, making future updates or twea
 This project was more than just a class exercise for me; it was something personal and close to my heart. While I am proud of the interactive elements and UX flow I achieved, I know every project will bring new lessons. I look forward to the next challenge, armed with the insights I've gathered from this experience.
 
 ### Kash 
+Coming up with an idea was fun because all of us had great ideas which would've all made great websites for this assignment. I'm also really glad we went with this one because as a senior I think it was a really fun project and maybe I'll look at it 10 years from now and weep. The audio side of things was interesting because I had never worked with that kind of audio equipment before. The coding part of it was just as fun, and coming up with ideas for the logic and flow of the website was fun, since we could have had a stack of images moving away from the viewport instead of a series of images moving into the viewport, so discussing which one would be most suitable definetely expanded all of our understandings of web development. 
 
 ### Shahd 
 I enjoyed working on the assignment. I felt we had enjoyed working on the assignment. I felt we had a hard time finding a good idea and implementing it. I felt things flew pretty well after that. I enjoyed styling the website and also doing the buttons. I felt I learned a lot through the process.
