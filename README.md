@@ -3,7 +3,11 @@
 For our sound project, we created Farewell NYUAD, a website designed to create an audio experience of life as a student on campus. Its primary purpose is to serve as a living keepsake for graduating students, giving them a chance to listen to the places they once occupied and experience the feeling of being on campus from wherever they are. Students open the site and are greeted by a nostalgic song, “See You Again” by Wiz Khalifa. They are then able to navigate through the website to six iconic campus locations: the Welcome Center, the ground floor of C2, the Baraha, the Convenience Store, the Marketplace, and the Palms. We strove to create a nostalgic experience, including heartfelt moments from the dialogue of different students. We came up with this idea as many of our members are seniors and leaving campus soon. We thought that creating something tied to campus and the different stories from our student body would be a gift to our future selves, to help us and other graduating students remember our time here using more than just photos.
 
 **Process - Drafting - Concept and Storyline**:
+
 We went through several iterations of the project. We had an initial idea to create a dark comic story themes as 'How they died', but decided on something more creative that could relate to the campus community. We then considered making a 3D version map of the campus, but then agreed that a 2D version would be fit better in an website environment. We then considered making soundscapes from all over campus, but narrowed our focus onto campus center where a lot of things happen. Thinking of ways to combine sound and location in a narrative format, we settled on the idea of a goodbye website for NYUAD seniors. Using images and sounds of campus, we would create a campus atmosphere online. 
+
+![alt text](./map.jpg)
+
 
 This website is an opprotunity for NYUAD students to share their experiances and favorite places with other students that can benifit from others expreiance. 
 
@@ -23,6 +27,7 @@ Shahd: Did a map that we did not use. Helped in recording sound. Helped in doing
 Naijah: Recorded all sounds and mixed them for the 6 soundscapes.
 
 Kash:
+
 Q M:
 
 **Reflection and Evaluation**: 
