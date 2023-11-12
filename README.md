@@ -17,9 +17,14 @@ The C2 page in the website consisted of a 6 divs, each one with the backgroud im
 
 **Work Distribution**:
 Shahd: Did a map that we did not use. Helped in recording sound. Helped in doing the code mainly worked on the index HTMl and the buttons. 
+
 Naijah: Recorded all sounds and mixed them for the 6 soundscapes.
+
 Kash:
 Q M:
 
 **Reflection and Evaluation**: 
-overall feelings about the project, issues we ran into (trying to resize images to fit the screen better, unable to find a place for the map to fit into the project, etc)
+
+The overall some issues we ran into were trying to resize images to fit the screen better, our inability to find a place for the map to fit into the project and some communication issues. 
+
+The final output of the project was similar to what we were looking for. However, there is always more for improvement. Some stuff that can be done to make the website better is add more audio and stories that people share with us about campus. Also the buttons and how they navigate the viewr through campus. Maybe we can make them more integrated into how a person would actually move around campus. 
