@@ -67,6 +67,7 @@ We all brainstormed for different ideas and planned the process and wireframe of
 ## Reflection and Evaluation: 
 
 ### Naijah
+Upon starting this project, it was important to me to create a visually cohesive and overall engaging interactive website. I'm plased with what we've created, and how we've managed to bring our ideas together into one project. I worked primarily on the audio of the project. I learned a lot about recording and editing from both a hardware side (learning how to manage and utilize the equipment), and a software side, learning about different tools like normalize, EQ, noise reduction, filters, etc. I gained a better understanding of decibels and a working visual understanding of waveforms, and feel confident in using these skills for other assignments and projects I take on in the future. Overall I'm pleased with the cohesive volume levels of the soundscapes, as well as the visuals that accompany them.
 
 ### Q M Naushad:
 
