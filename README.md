@@ -23,23 +23,14 @@ The C2 page in the website consisted of a 6 divs, each one with the backgroud im
 ## Work Distribution**:
 We all brainstormed for different ideas and planned the process and wireframe of how it will work. Then we divided the work among ourselves. We all worked on the README file. 
 
-<<<<<<< HEAD
-Shahd: Made map that we did not use, was intially for the index page. Helped in recording sound in Baraha, entrance, and Market place. Did part of the code mainly worked on the index HTMl and the buttons and overall design.  
-
-Naijah: Recorded all sounds and mixed them for the 6 soundscapes.
-
-Kash:
-
-Q M:
-=======
-**Shahd**: Made the map [which unfortunately we didn't end up using :(]. It was the initial index page. Shahd also helped in recording student stories in Baraha, C2 entrance, and Marketplace. She also did parts of the code mainly worked on the index HTMl and the buttons and overall design.   
+**Shahd**: Made the map [which unfortunately we didn't end up using :]. It was the initial index page. Shahd also helped in recording student stories in Baraha, C2 entrance, and Marketplace. She also did parts of the code mainly worked on the index HTMl and the buttons and overall design.   
 
 **Naijah**: Recorded all sounds and edited them into the 6 soundscapes. Worked with Shahd to record student stories.
 
 **QM Naushad**: Worked on coding. Wrote the code for the structure and flow of the website. Took the different images of campus and stylized them for the backgrounds.
 
 **Kash**: Worked on coding, debugged issues, and handled the github-side-of-things.
->>>>>>> 0f09759947345af95d19ee120762348390e7f262
+
 
 ## Reflection and Evaluation: 
 
@@ -69,12 +60,11 @@ This project was more than just a class exercise for me; it was something person
 ### Kash 
 
 ### Shahd 
-
------
-Overall some issues we ran into were trying to resize images to fit the screen better, our inability to find a place for the map to fit into the project, and some communication issues. 
-
-Shahd: 
-
 I enjoyed working on the assignment. I felt we had a hard time finding a good idea and implementing it. I felt things flew pretty well after that. I enjoyed styling the website and also doing the buttons. I felt I learned a lot through the process. 
 
 The final output of the project was similar to what we were looking for. However, there is always more room for improvement. Some stuff that can be done to make the website better is to add more audio and stories that people share with us about campus. Also the buttons and how they navigate the view through campus. Maybe we can make them more integrated into how a person would move around campus. I think alot of other things can be done. 
+
+Overall some issues we ran into were trying to resize images to fit the screen better, our inability to find a place for the map to fit into the project, and some communication issues. 
+
+ 
+
