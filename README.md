@@ -8,7 +8,6 @@ We went through several iterations of the project. We had an initial idea to cre
 
 ![alt text](./map.jpg)
 
-
 This website is an opprotunity for NYUAD students to share their experiances and favorite places with other students that can benifit from others expreiance. 
 
 **Process - Audio Recording**:
@@ -22,6 +21,8 @@ The aesthetic theme of the site is also university-related, with NYUAD purple as
 The C2 page in the website consisted of a 6 divs, each one with the backgroud image set as an image of each of its location. Each time a button is pressed, the goToImage function loops through each image div and shifts the position of each up/down by 100% height, so that only the div of the current location is in the viewport, which is how we achieved the visual effect of going up/down. Each time the goToImage function is called, it checks if audio is currently playing and if so, it pauses it to ensure that audios don't overlap. Then it loads the correct audio into a variable and starts playing it.  
 
 **Work Distribution**:
+We all brainstormed for different ideas and planned the process and wireframe of how it will work. Then we divided the work among ourselves. We all worked on the README file. 
+
 Shahd: Did a map that we did not use. Helped in recording sound. Helped in doing the code mainly worked on the index HTMl and the buttons. 
 
 Naijah: Recorded all sounds and mixed them for the 6 soundscapes.
