@@ -5,7 +5,7 @@ startButton.addEventListener('click', () => {
     window.location.href = "./c2.html"
 });
 
-const audio = new Audio('./audio/See You Again - Wiz Khalifa - Violin & Piano Cover.mp3');
+const audio = new Audio('./audio/firstpage.wav');
 window.addEventListener('mousemove', () => {
     audio.play();
 });
