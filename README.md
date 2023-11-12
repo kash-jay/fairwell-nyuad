@@ -13,6 +13,6 @@ The general design of the website was inspired by the campus architecture as the
 The C2 page in the website consisted of a 6 divs, each one with the backgroud image set as an image of each of its location. Each time a button is pressed, the goToImage function loops through each image div and shifts the position of each up/down by 100% height, so that only the div of the current location is in the viewport, which is how we achieved the visual effect of going up/down. Each time the goToImage function is called, it checks if audio is currently playing and if so, it pauses it to ensure that audios don't overlap. Then it loads the correct audio into a variable and starts playing it.  
 
 **Work Distribution**:
-
+Shahd: Did a map that we did not use. Helped in recording sound. Helped in doing the code maainly worked on the index HTMl and the buttons. 
 
 **Reflection and Evaluation**: 
