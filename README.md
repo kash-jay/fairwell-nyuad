@@ -33,6 +33,7 @@ The website comprises various files, each serving a unique purpose in the overal
 ### Features
 
 #### Home Page
+We wanted the home page to be simple, yet also set a mood for the whole experience. That is why we added audion a nice button and a small illustration of people having one last celebration before they say goodbye. 
 
 - **Engaging Introduction**: The `index.html` file is crafted to give visitors a warm welcome, featuring the title "Farewell NYUAD" and a start button to invite user interaction.
 - **Intuitive Navigation**: Clear and intuitive navigation aids in exploring different sections of the website effortlessly.
