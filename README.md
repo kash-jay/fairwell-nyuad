@@ -47,12 +47,10 @@ Reflecting upon the finished product, I can observe how the initial vision evolv
 **Code and Interactivity**: My initial pseudocode took on a life of their own as I delved deeper. Each line of code was written, keeping in mind the balance between functionality and user experience. The stylized backgrounds, the responsive buttons and the harmonious audio flow all emerged from countless hours of coding, debugging, and refining. My commitment was to ensure that the backend logic seamlessly translated into a frontend experience that felt both magical and natural.
 
 **What I Set Out To Achieve**:
-
 User-Centered Interaction: I wanted users to feel as though the website was conversing and connecting with them.
 Flawless UX: Every user should feel comfortable and engaged, never lost or overwhelmed.
 
 **How The Code Reflected This:**
-
 I ensured my code was modular and well-documented, making future updates or tweaks more manageable. The transition from one section to another were intentionally made to emulate the feeling of going up and down the floors of C2 for example. 
 
 This project was more than just a class exercise for me; it was something personal and close to my heart. While I am proud of the interactive elements and UX flow I achieved, I know every project will bring new lessons. I look forward to the next challenge, armed with the insights I've gathered from this experience.
@@ -60,9 +58,20 @@ This project was more than just a class exercise for me; it was something person
 ### Kash 
 
 ### Shahd 
-I enjoyed working on the assignment. I felt we had a hard time finding a good idea and implementing it. I felt things flew pretty well after that. I enjoyed styling the website and also doing the buttons. I felt I learned a lot through the process. 
+I enjoyed working on the assignment. I felt we had enjoyed working on the assignment. I felt we had a hard time finding a good idea and implementing it. I felt things flew pretty well after that. I enjoyed styling the website and also doing the buttons. I felt I learned a lot through the process.
 
-The final output of the project was similar to what we were looking for. However, there is always more room for improvement. Some stuff that can be done to make the website better is to add more audio and stories that people share with us about campus. Also the buttons and how they navigate the view through campus. Maybe we can make them more integrated into how a person would move around campus. I think alot of other things can be done. 
+**Design and UX**:
+The UX of the website is simple and nice. I feel one improvement would be the buttons and how they navigate the view through campus. Maybe we can make them more integrated into how a person would move around campus. I think a lot of other things can be done. 
+
+**Code and Interactivity**:
+The interactivity of the website is simple. I think it has a good balance between UX and functionality. However, I would add a play/pause button to allow users to have more control. 
+
+**What I Set Out To Achieve**:
+I wanted an appealing overall look of the website that reflects NYU's identity and also maximizes and engages the audience to the stories being played. 
+
+**How The Code Reflected This:**
+I ensured that the website has elements from NYUAD, like color schemes, an artistic feel, and also experience through navigation. 
+I think the final output of the project was similar to what we were looking for. However, there is always more room for improvement. Some stuff that can be done to make the website better is to add more audio and stories that people share with us about campus.
 
 Overall some issues we ran into were trying to resize images to fit the screen better, our inability to find a place for the map to fit into the project, and some communication issues. 
 
