@@ -48,19 +48,47 @@ The general design of the website was inspired by the campus architecture as the
 
 The C2 page in the website consisted of a 6 divs, each one with the backgroud image set as an image of each of its location. Each time a button is pressed, the goToImage function loops through each image div and shifts the position of each up/down by 100% height, so that only the div of the current location is in the viewport, which is how we achieved the visual effect of going up/down. Each time the goToImage function is called, it checks if audio is currently playing and if so, it pauses it to ensure that audios don't overlap. Then it loads the correct audio into a variable and starts playing it.  
 
-**Work Distribution**:
+## Work Distribution**:
 We all brainstormed for different ideas and planned the process and wireframe of how it will work. Then we divided the work among ourselves. We all worked on the README file. 
 
-Shahd: Made map that we did not use, was intially for the index page. Helped in recording student stories in Baraha, C2 entrance, and Marketplace. Did part of the code mainly worked on the index HTMl and the buttons and overall design.  
+**Shahd**: Made the map [which unfortunately we didn't end up using :(]. It was the initial index page. Shahd also helped in recording student stories in Baraha, C2 entrance, and Marketplace. She also did parts of the code mainly worked on the index HTMl and the buttons and overall design.   
 
-Naijah: Recorded all sounds and edited them into the 6 soundscapes. Worked with Shahd to record student stories.
+**Naijah**: Recorded all sounds and edited them into the 6 soundscapes. Worked with Shahd to record student stories.
 
-Kash: Worked on coding.
+**QM Naushad**: Worked on coding. Wrote the code for the structure and flow of the website. Took the different images of campus and stylized them for the backgrounds.
 
-Q M: Worked on coding. Took the different images of campus and stylized them.
+**Kash**: Worked on coding, debugged issues, and handled the github-side-of-things.
 
-**Reflection and Evaluation**: 
+## Reflection and Evaluation: 
 
+## Naijah
+
+### Q M Naushad:
+
+When I started on this project, I was motivated to both have a good output as well as create something personal and something that I can look back on years later to fuel nostalgia. My objective was to ensure that NYUAD students can take in this audio experience to reflect and reminisce.
+
+Reflecting upon the finished product, I can observe how the initial vision evolved and matured:
+
+**Design and UX**: The visual layout, while initially envisioned as simple, had to be meticulously crafted to ensure intuitive user navigation. Each button, each transition, and each interactive feature was designed with the user's perspective in mind.
+
+**Code and Interactivity**: My initial pseudocode took on a life of their own as I delved deeper. Each line of code was written, keeping in mind the balance between functionality and user experience. The stylized backgrounds, the responsive buttons and the harmonious audio flow all emerged from countless hours of coding, debugging, and refining. My commitment was to ensure that the backend logic seamlessly translated into a frontend experience that felt both magical and natural.
+
+**What I Set Out To Achieve**:
+
+User-Centered Interaction: I wanted users to feel as though the website was conversing and connecting with them.
+Flawless UX: Every user should feel comfortable and engaged, never lost or overwhelmed.
+
+**How The Code Reflected This:**
+
+I ensured my code was modular and well-documented, making future updates or tweaks more manageable. The transition from one section to another were intentionally made to emulate the feeling of going up and down the floors of C2 for example. 
+
+This project was more than just a class exercise for me; it was something personal and close to my heart. While I am proud of the interactive elements and UX flow I achieved, I know every project will bring new lessons. I look forward to the next challenge, armed with the insights I've gathered from this experience.
+
+### Kash 
+
+### Shahd 
+
+-----
 Overall some issues we ran into were trying to resize images to fit the screen better, our inability to find a place for the map to fit into the project, and some communication issues. 
 
 The final output of the project was similar to what we were looking for. However, there is always more for improvement. Some stuff that can be done to make the website better is to add more audio and stories that people share with us about campus. It would also be nice to expand the site to include more than just C2. We could also improve the buttons and how they navigate the view through campus by making them more integrated into how a person would move around campus.
